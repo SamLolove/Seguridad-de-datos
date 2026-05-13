@@ -4,9 +4,6 @@
 ### Asignatura
 **Cómputo de Alto Desempeño**
 
-### Profesor
-**Ismael Jiménez**
-
 ### Alumna
 **Samantha Camila Durán González**  
 **Matrícula:** 220300741
